@@ -1,5 +1,5 @@
 # thebittimes_api
-API for [a link](thebittimes.com)
+API for [thebittimes.com](thebittimes.com)
 
 TheBitTimes.Com is a Professional News Platform. Here we will provide you only interesting content, which you will like very much.
 
