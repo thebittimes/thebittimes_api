@@ -1,5 +1,5 @@
 # thebittimes_api
-API for [thebittimes.com](https://thebittimes.com?utm_source=github&utm_medium=github&utm_campaign=github)
+API for [thebittimes.com](https://thebittimes.com?utm_source=github&utm_medium=github&utm_campaign=github) is coming soon
 
 TheBitTimes.Com is a Professional News Platform. Here we will provide you only interesting content, which you will like very much.
 
